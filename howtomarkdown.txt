@@ -1,0 +1,105 @@
+How to Markdown
+
+	- Markdown is useful to write content for the web in plaintext
+	- The content of this Markdown-Tutorial is based on: https://www.markdowntutorial.com
+
+
+==================== FONT STYLE
+
+	_italic_
+//write in italic using an underscore
+
+	**bold**
+//write in bold using two asterisks
+
+	**_this text is bold and italic_**
+// the order of asterisks and underscores ususally does not matter.
+
+
+==================== HEADERS
+
+//There are six types of headers in markdown (decreasing in size)
+	#Header one //use sparingly
+	##Header two
+	###Header three
+	####Header four
+	#####Header five
+	######Header six //use sparingly
+
+
+==================== LINKS
+
+	[Click here.](www.clickhere.cokg)
+//inline link
+
+	This is my text. Click this [link][Website].
+	Here my text ends.
+	[Website]:www.website.cokg
+//reference link
+//reference to another place in the document
+//reference link will not appeare in rendered text
+
+
+==================== IMAGES
+
+	![alt text](www.linktoimage.jpg)
+//inline image link
+//Alt text describes the image for the visually impaired.
+
+	![alt text][image tag]
+
+	[image tag]:www.linktoimage.png  //Define an image for the tag.
+//reference image
+
+
+==================== BLOCKQUOTES
+
+	> This is a blockqoute.
+//preface a line with the "greater than" caret to create a blockquote.
+
+	>To extend the blockquote over multiple lines,
+	>
+	>one has to preface each line that shall be included into the quote
+	with a "_greater than_" caret.
+
+
+==================== LISTS
+
+	* content 1
+	* content 2
+	* ...
+//Create an unordered list by using single asterisks followed by a blank.
+
+	1. content 1
+	2. content 2
+	3. ...
+//Create an ordered list by prefacing each point with a number followed by a blank.
+
+	* content 1
+	 * subcontent 1
+	 * subcontent 2
+	* content 2
+//Create nested lists (sub-bullets) by indenting one space more before the sub-bullet.
+//You also can combine ordered and unordered lists!
+
+
+==================== PARAGRAPHS
+
+	This is the first paragraph.
+	
+	This is the second paragraph.
+//hard break
+
+	This is the first line.  
+	This is the second line.  
+//soft break
+//Insert two spaces after each line!
+
+==================== THE END (for now...)
+
+There are many “extended” implementations of Markdown that support  
+formats like tables, definition lists, footnotes, and more.
+
+Also see:
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://guides.github.com/features/mastering-markdown/
