@@ -1,10 +1,8 @@
 # hello-world
 Just some space to start learning how to use GitHub from scratch.
 
-Now I am editing this README.md file in order to test the _pull request_ feature, GitHub provides.
+This also is my first attempt on working with python and basically my first step into the tremendous new world of coding. Therefore I will gather many beginners tips that I consider usefull for myself and probably write some personal tutorials too.
 
->_On GitHub, saved changes are called **commits**._ - [Hello-World-Tutorial](https://guides.github.com/activities/hello-world/)
-
->_Pull Requests_ show _diffs_ (=differences) of the content from both branches.
->Changes, additions and subtractions are shown in green and red. - [Hello-World-Tutorial](https://guides.github.com/activities/hello-world/)
-
+So far this repository contains:
+* README.md
+* [howtomarkdown.txt](https://github.com/SCmoeser/hello-world/blob/main/howtomarkdown.txt) - a short introduction to writing in _Markdown_.
