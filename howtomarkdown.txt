@@ -4,6 +4,11 @@ How to Markdown
 	- The content of this Markdown-Tutorial is based on: https://www.markdowntutorial.com
 
 
+Also see:
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://guides.github.com/features/mastering-markdown/
+https://www.markdownguide.org/basic-syntax/
+
 ==================== FONT STYLE
 
 	_italic_
@@ -100,6 +105,4 @@ How to Markdown
 There are many “extended” implementations of Markdown that support  
 formats like tables, definition lists, footnotes, and more.
 
-Also see:
-https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://guides.github.com/features/mastering-markdown/
+(See additional Links at the top of the document.)
