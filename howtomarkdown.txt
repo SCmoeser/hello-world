@@ -8,6 +8,7 @@ Also see:
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://guides.github.com/features/mastering-markdown/
 https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/getting-started/
 
 ==================== FONT STYLE
 
